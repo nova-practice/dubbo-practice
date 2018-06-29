@@ -9,9 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>dubbo-consumer</module>
         <module>dubbo-demo-api</module>
         <module>dubbo-provider</module>
+        <module>dubbo-consumer02</module>
+        <module>dubbo-consumer</module>
     </modules>
 
 
